@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="columnWidth">120dp</dimen>
+    <dimen name="columHeight">120dp</dimen>
+</resources>
